@@ -1,0 +1,37 @@
+.container{
+    background-color: #f5b9b9;
+    height: 500px;
+    width: 500px;
+    padding-top:1px;
+}
+p{
+    font s
+}
+
+#num{
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+#btn{
+    height: 40px;
+    width: 60px;
+    border-radius: 8px;
+    background-color: rgb(128, 122, 76);
+    margin-left: 10px;
+}
+
+.table{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(79, 83, 59);
+    margin: 10px;
+}
+
+#restart{
+    margin-left: 10px;
+    height: 30px;
+    border-radius: 5px; 
+    background-color: rgb(219, 195, 241);
+}
